@@ -30,6 +30,7 @@
                 <configuration>
                     <excludes>
                         <exclude>com/imet/plugin/PluginTest.class</exclude>
+                        <exclude>com/imet/plugin/PluginTransport.class</exclude>
                     </excludes>
                 </configuration>
             </plugin>
